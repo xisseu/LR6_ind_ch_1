@@ -1,8 +1,0 @@
-uploads = []
-generated = []
-
-[[outputs]]
-id = "kdZKv0vDxSnP94D7fmKmm"
-uri = "file://myfig.png"
-type = "image"
-title = "Generated Plot"
